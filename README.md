@@ -23,9 +23,7 @@ The following methods and tools are used to optimize and reset Windows to its be
 
 ## Links to Sources
 
-- **Chris Titus Tech - Performance Guide**:  
-  - [Chris Titus Tech YouTube Channel](https://www.youtube.com/c/ChrisTitusTech)
-  
+- **Chris Titus Tech - Performance Guide**:
   - [Chris Titus Tech Guide Video](https://youtu.be/92SM8Az5QVM?si=8iOImdXNkrBd_PmC) 
   
 - **Wintoys - Performance Optimization Guide**:  
@@ -44,7 +42,7 @@ The following methods and tools are used to optimize and reset Windows to its be
   - [Chris Titus Tech YouTube](https://www.youtube.com/c/ChrisTitusTech)
 
 - **Wintoys**: For additional performance tips and guides.  
-  - [Wintoys Microsoft Store Link](https://apps.microsoft.com/detail/9p8ltpgcbzxd?ocid=webpdpshare)
+  - [Wintoys Microsoft Store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?ocid=webpdpshare)
 
 - **Me**: For following this guide and making your system faster! (With R&D Respectively.) 
 
